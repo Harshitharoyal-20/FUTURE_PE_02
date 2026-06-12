@@ -145,7 +145,13 @@ These screenshots demonstrate the practical implementation of Prompt Engineering
 ## Screenshots
 
 ### Prompt Input
-![Prompt Input](screenshots/1.ss.png)
+![Prompt Input](screenshots/prompt_input.png)
+
+### Generated Hooks
+![Generated Hooks](screenshots/hooks_output.png)
+
+### UGC Advertisement Script
+![UGC Script](screenshots/ugc_script_output.png)
 
 ### Generated Hooks
 ![Generated Hooks](screenshots/2.ss.png)
