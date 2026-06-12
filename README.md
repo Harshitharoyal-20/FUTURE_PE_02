@@ -141,14 +141,16 @@ The repository includes screenshots showing:
 
 ## Screenshots
 
+## Screenshots
+
 ### Prompt Input
-![Prompt Input](screenshots/prompt_input.png)
+![Prompt Input](prompt_input.png)
 
 ### Generated Hooks
-![Generated Hooks](screenshots/hooks_output.png)
+![Generated Hooks](hooks_output.png)
 
 ### UGC Advertisement Script
-![UGC Script](screenshots/ugc_script_output.png)
+![UGC Script](ugc_script_output.png)
 -----
 # Tools Used
 
