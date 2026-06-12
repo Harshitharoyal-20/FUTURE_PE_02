@@ -145,7 +145,7 @@ These screenshots demonstrate the practical implementation of Prompt Engineering
 ## Screenshots
 
 ### Prompt Input
-![Prompt Input](screenshots/1 ss.png)
+![Prompt Input](screenshots/1.ss.png)
 
 ### Generated Hooks
 ![Generated Hooks](screenshots/2.ss.png)
