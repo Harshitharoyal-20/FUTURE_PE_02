@@ -1,0 +1,14 @@
+Prompt Version 1:
+Basic prompt without audience details.
+
+Output:
+The advertisement felt generic and less relatable.
+
+Prompt Version 2:
+Added target audience and tone.
+
+Output:
+The advertisement felt more natural and engaging.
+
+Observation:
+Providing more context improved the quality of the generated content.

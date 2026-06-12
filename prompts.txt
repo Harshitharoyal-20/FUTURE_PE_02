@@ -1,0 +1,14 @@
+PROMPT 1
+
+Act as a college student creating a social media advertisement.
+
+Product: EcoSip Water Bottle
+Target Audience: Students and young adults
+
+Generate:
+1. Three hooks
+2. One 30-second Instagram Reel script
+3. One CTA
+
+Use a friendly and natural tone.
+Avoid sounding like a sales advertisement.
