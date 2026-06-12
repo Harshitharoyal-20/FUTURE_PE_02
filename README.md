@@ -139,14 +139,16 @@ The repository includes screenshots showing:
 2. Generated Hooks
 3. Generated UGC Advertisement Script
 
-These screenshots demonstrate the practical implementation of Prompt Engineering and the outputs generated using AI.
 ## Screenshots
+
 ### Prompt Input
-![Prompt Input](Screenshot 2026-06-12 123831.png)
-### Prompt Input
-![Prompt Input](  )
-### Prompt Input
-![Prompt Input]( )
+![Prompt Input](screenshots/prompt_input.png)
+
+### Generated Hooks
+![Generated Hooks](screenshots/hooks_output.png)
+
+### UGC Advertisement Script
+![UGC Script](screenshots/ugc_script_output.png)
 -----
 # Tools Used
 
