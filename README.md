@@ -141,7 +141,7 @@ The repository includes screenshots showing:
 
 ## Screenshots
 
-## Screenshots
+
 
 ### Prompt Input
 ![Prompt Input](prompt_input.png)
