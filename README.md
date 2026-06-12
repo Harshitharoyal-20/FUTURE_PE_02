@@ -142,6 +142,8 @@ The repository includes screenshots showing:
 These screenshots demonstrate the practical implementation of Prompt Engineering and the outputs generated using AI.
 ## Screenshots
 
+## Screenshots
+
 ### Prompt Input
 ![Prompt Input](screenshots/1 ss.png)
 
@@ -150,8 +152,7 @@ These screenshots demonstrate the practical implementation of Prompt Engineering
 
 ### UGC Advertisement Script
 ![UGC Script](screenshots/3.ss.png)
----
-
+-----
 # Tools Used
 
 * ChatGPT
